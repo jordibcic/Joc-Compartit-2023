@@ -6,6 +6,6 @@
 [node name="Joc" type="Node2D"]
 
 [node name="Icon" type="Sprite" parent="."]
-position = Vector2( 497, 265 )
+position = Vector2( 972, 50 )
 texture = ExtResource( 1 )
 script = ExtResource( 2 )
